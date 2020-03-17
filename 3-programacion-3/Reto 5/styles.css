@@ -1,0 +1,19 @@
+.success{
+    border-color: rgb(4, 85, 4);
+    background-color: green;
+    color: rgb(4, 85, 4);
+
+
+}
+
+.error{
+    border-color:rgb(131, 18, 18);
+    background-color:red;
+    color:rgb(131, 18, 18);
+}
+
+.warning{
+    border-color:rgb(155, 153, 48);
+    background-color:yellow;
+    color:rgb(155, 153, 48);
+}
